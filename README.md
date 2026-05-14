@@ -13,3 +13,4 @@ To master deep learning concepts ranging from basic neural networks to advanced 
 | Day 02 | What is Deep Learning? Deep Learning Vs Machine Learning  | 
 | Day 03 | Types of Neural Networks , History of Deep Learning , Applications of Deep Learning | 
 | Day 04 | What is a Perceptron? Perceptron Vs Neuron , Perceptron Geometric Intuition |
+| Day 05 | Perceptron Trick , How to train a Perceptron |
